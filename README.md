@@ -1,6 +1,6 @@
 ### Bonjour à tous! 👋
-#DorianLP#
-##Dorian Le Potier##
+# DorianLP #
+## Dorian Le Potier
 ☎️ 06 62 28 80 53
 📜 dorian.lepotier@gmail.com
 🚧 **Formation Web développeur et développeur Mobile**
