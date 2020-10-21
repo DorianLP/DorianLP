@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on Html, CSS, Java Script, PHP, 
 
 - 🖥 Mac User
+<video controls="controls">
   <source type="video/mp4" src="video.mp4"></source>
-
-  <p>Your browser does not support the video element.</p>
 </video>
