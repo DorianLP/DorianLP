@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on Html, CSS, Java Script, PHP, 
 
 - 🖥 Mac User
+![](video.mp4)
 <video controls="controls">
   <source type="video/mp4" src="video.mp4"></source>
 </video>
